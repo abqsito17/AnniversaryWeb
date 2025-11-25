@@ -33,7 +33,7 @@ Open any .html file in a text editor (like VS Code, Notepad++, or even basic Not
 
 Look for the text sections like:
 
-<p>Hi baby, today marks 5 months of us...</p>
+<p>Your message here</p>
 
 
 Replace these with your own words.
